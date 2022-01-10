@@ -1,4 +1,4 @@
-package duck;
+package ch1_strategy_pattern.duck;
 
 public class ModelDuck extends Duck {
     @Override
