@@ -13,7 +13,6 @@ public class PizzaStore {
         pizza.prepare();
         pizza.bake();
         pizza.cut();
-        pizza.box();
         return pizza;
     }
 }
